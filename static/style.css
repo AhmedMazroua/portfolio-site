@@ -282,7 +282,7 @@ header.sticky {
 .skills-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, auto));
-  align-items: center;
+  align-items: top;
   gap: 2.5rem;
   margin-top: 1rem;
 }
