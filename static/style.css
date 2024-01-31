@@ -104,7 +104,7 @@ section {
       rgba(0, 0, 0, 0.95),
       rgba(180, 180, 180, 0.1)
     ),
-    url("static/akh.png");
+    url("akh.png");
   background-size: contain;
   background-position: center;
   display: flex;
@@ -232,7 +232,7 @@ header.sticky {
 }
 
 .about-img img {
-  max-width: 530px;
+  max-width: 650px;
   height: auto;
   width: 100%;
   border-radius: 50%;
@@ -361,7 +361,7 @@ header.sticky {
 
 .portfolio-content {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(600px, auto));
   align-items: center;
   gap: 2.5rem;
   margin-top: 5rem;
