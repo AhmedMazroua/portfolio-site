@@ -104,7 +104,7 @@ section {
       rgba(0, 0, 0, 0.95),
       rgba(180, 180, 180, 0.1)
     ),
-    url("akh.png");
+    url("print-icon.avif");
   background-size: contain;
   background-position: center;
   display: flex;
